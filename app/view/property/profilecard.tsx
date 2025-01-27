@@ -9,15 +9,15 @@ import {
 } from "react-icons/fa6";
 
 const AgentData = [
-  {
-    id: 1,
-    name: "Jayvee Valeriano",
-    position: "Senior Sales Manager",
-    email: "jayvee@gmail.com",
-    phone: "090909090",
-    images:
-      "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-jayvee.jpg",
-  },
+  // {
+  //   id: 1,
+  //   name: "Jayvee Valeriano",
+  //   position: "Senior Sales Manager",
+  //   email: "jayvee@gmail.com",
+  //   phone: "090909090",
+  //   images:
+  //     "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-jayvee.jpg",
+  // },
 
   // {
   //     id: 2,
@@ -28,14 +28,14 @@ const AgentData = [
   //     images: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-anj.jpg",
   // },
 
-  // {
-  //     id: 3,
-  //     name: "Gabriel R. Mercado",
-  //     position: "Senior Property Specialist",
-  //     email: "abicrealty.gab@gmail.com",
-  //     phone: "09556600003",
-  //     images: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-gab.jpg",
-  // },
+  {
+    id: 3,
+    name: "Gabriel R. Mercado",
+    position: "Senior Property Specialist",
+    email: "abicrealty.gab@gmail.com",
+    phone: "09556600003",
+    images: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/agent/abic-gab.jpg",
+  },
   // {
   //     id: 4,
   //     name: "Lloyd Francis B. Moscare",

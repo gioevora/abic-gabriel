@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Abic Realty by Jayvee Valeriano - Real Estate Sales, Leasing, and Rentals",
-  template: "Abic Realty by Jayvee Valeriano",
+  name: "Abic Realty by Gabriel Mercado - Real Estate Sales, Leasing, and Rentals",
+  template: "Abic Realty by Gabriel Mercado",
   description:
     "Discover condos, offices, and properties for sale, lease, or rent with Abic Realty. Your trusted partner in real estate solutions.",
 

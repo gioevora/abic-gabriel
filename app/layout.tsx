@@ -18,11 +18,11 @@ export const metadata: Metadata = {
   description: siteConfig.description,
 
   openGraph: {
-    title: "Abic Realty by Jayvee Valeriano - Your Trusted Real Estate Partner",
+    title: "Abic Realty by Gabriel Mercado - Your Trusted Real Estate Partner",
     description:
       "Find your ideal condo, office, or property for sale, lease, or rent with Abic Realty. We make real estate simple.",
     url: "https://www.abicrealty.com",
-    siteName: "Abic Realty by Jayvee Valeriano",
+    siteName: "Abic Realty by Gabriel Mercado",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-banner.png",
